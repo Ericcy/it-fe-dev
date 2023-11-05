@@ -1,0 +1,18 @@
+{
+  "name": "it-fe-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/core",
+    "packages/utils"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  }
+}

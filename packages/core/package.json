@@ -1,0 +1,14 @@
+{
+  "name": "@it-fe-dev/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.ts",
+  "bin": {
+    "it-fe-dev": "bin/index.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wcy",
+  "license": "ISC"
+}
