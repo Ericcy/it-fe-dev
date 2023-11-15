@@ -12,6 +12,8 @@
   "author": "wcy",
   "license": "ISC",
   "dependencies": {
-    "@it-fe-dev/utils": "^1.1.0"
+    "@it-fe-dev/utils": "^1.1.0",
+    "commander": "^11.1.0",
+    "yargs": "^17.7.2"
   }
 }
